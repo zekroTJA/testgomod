@@ -3,5 +3,5 @@ package testgomod
 import "fmt"
 
 func Hello() {
-	fmt.Println("Hello v1.3.0")
+	fmt.Println("Hello v1.4.0+staging")
 }
